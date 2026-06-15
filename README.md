@@ -26,7 +26,7 @@ Refine the data_loader.py file, when you have contacted and obtained the dataset
 # Original path
 data = pd.read_csv('text.csv')
 
-# Update with your local path
+# If you have clean datasets, you could update with your local path of clean datasets
 data = pd.read_csv('dataset_name.csv')
 ```
 Run the file **main.py** to train the model and observe the experimental results.
