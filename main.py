@@ -1,5 +1,6 @@
 from modeling import *
-from modeling.neural_network import predict
-
+from modeling.neural_network import *
+from modeling.linear_regression import *
 if __name__ == '__main__':
-    predict()
+    predict_NN()
+    predict_LN()
