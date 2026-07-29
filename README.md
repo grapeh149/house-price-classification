@@ -40,4 +40,16 @@ Below, the confusion matrix shows the class levels.
 Precision, Recall, and Accuracy metrics for evaluating each class for three class.
 ![Evaluating](figure/eval.jpg)
 
+## Run the Web Application
+
+After training the model (or using a pre-trained model), you can launch the web application to interact with the classifier.
+
+Run the following command:
+
+```bash
+python index.py
+```
+
+Once the application starts, open the local URL displayed in your terminal (typically `http://127.0.0.1:5000`) in your web browser to access the interface.
+
 
