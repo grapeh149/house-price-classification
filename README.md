@@ -9,7 +9,7 @@ The model performs classification on three classes representing price levels: Hi
 ## Dataset
 Due to privacy and licensing reasons, the dataset is **not publicly available in this repository**.  
 
-To request access, please contact: **nguyenbao1072004@gmail.com**  
+To request access, please contact: **hthuy1409@gmail.com**  
 Note: The dataset is provided **strictly for research purposes only** and must **not** be used for any commercial purposes.
 
 The level of data distribution in 3 layers: High, Medium, Low.
